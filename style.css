@@ -133,3 +133,7 @@ table.preparation td.preparation_etape {
 table.preparation tr {
   height: 40px;
 }
+
+/*Styles pour ordinateur*/
+@media only screen and (min-width: 768px) {
+}
